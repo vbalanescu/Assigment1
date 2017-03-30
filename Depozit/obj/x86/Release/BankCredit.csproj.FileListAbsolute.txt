@@ -1,0 +1,40 @@
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.exe.config
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.exe
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.pdb
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.BL.dll
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.Models.dll
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.DAL.dll
+D:\Projects\BankCredit-master\BankCredit\bin\Release\MySql.Data.dll
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.BL.pdb
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.Models.pdb
+D:\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.DAL.pdb
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.csprojResolveAssemblyReference.cache
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Admin.resources
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Login.resources
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Properties.Resources.resources
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.csproj.GenerateResource.Cache
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.exe
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.exe.config
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.exe
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.exe
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.BL.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.Models.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.DAL.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\MySql.Data.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.BL.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.Models.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\bin\Release\BankCredit.DAL.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.csprojResolveAssemblyReference.cache
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Admin.resources
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Login.resources
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Properties.Resources.resources
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.csproj.GenerateResource.Cache
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.UserInterface.resources
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Products.resources
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Orders.resources
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Orders.resources
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.Products.resources
+D:\Projects\BankCredit-master\BankCredit\obj\x86\Release\BankCredit.UserInterface.resources

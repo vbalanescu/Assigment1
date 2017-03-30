@@ -1,0 +1,14 @@
+D:\Projects\Depozit\Depozit.Tests.BL\obj\Debug\Depozit.UnitTests.BL.csprojResolveAssemblyReference.cache
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\BankCredit.UnitTests.BL.dll
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\BankCredit.UnitTests.BL.pdb
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\Depozit.BL.dll
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\Depozit.Models.dll
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\Depozit.DAL.dll
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\MySql.Data.dll
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\Depozit.BL.pdb
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\Depozit.Models.pdb
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projects\Depozit\Depozit.Tests.BL\bin\Debug\Depozit.DAL.pdb
+D:\Projects\Depozit\Depozit.Tests.BL\obj\Debug\BankCredit.UnitTests.BL.dll
+D:\Projects\Depozit\Depozit.Tests.BL\obj\Debug\BankCredit.UnitTests.BL.pdb

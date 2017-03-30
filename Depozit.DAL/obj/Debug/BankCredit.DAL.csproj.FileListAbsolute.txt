@@ -1,0 +1,9 @@
+D:\Projects\BankCredit-master\BankCredit.DAL\bin\Debug\BankCredit.DAL.dll.config
+D:\Projects\BankCredit-master\BankCredit.DAL\bin\Debug\BankCredit.DAL.dll
+D:\Projects\BankCredit-master\BankCredit.DAL\bin\Debug\BankCredit.DAL.pdb
+D:\Projects\BankCredit-master\BankCredit.DAL\bin\Debug\BankCredit.Models.dll
+D:\Projects\BankCredit-master\BankCredit.DAL\bin\Debug\MySql.Data.dll
+D:\Projects\BankCredit-master\BankCredit.DAL\bin\Debug\BankCredit.Models.pdb
+D:\Projects\BankCredit-master\BankCredit.DAL\obj\Debug\BankCredit.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\BankCredit-master\BankCredit.DAL\obj\Debug\BankCredit.DAL.dll
+D:\Projects\BankCredit-master\BankCredit.DAL\obj\Debug\BankCredit.DAL.pdb

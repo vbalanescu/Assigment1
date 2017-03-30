@@ -1,0 +1,14 @@
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\BankCredit.UnitTests.BL.dll
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\BankCredit.UnitTests.BL.pdb
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\BankCredit.BL.dll
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\BankCredit.Models.dll
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\BankCredit.DAL.dll
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\MySql.Data.dll
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\BankCredit.BL.pdb
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\BankCredit.Models.pdb
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\bin\Release\BankCredit.DAL.pdb
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\obj\Release\Depozit.UnitTests.BL.csprojResolveAssemblyReference.cache
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\obj\Release\BankCredit.UnitTests.BL.dll
+D:\Projects\BankCredit-master\BankCredit.UnitTests.BL\obj\Release\BankCredit.UnitTests.BL.pdb

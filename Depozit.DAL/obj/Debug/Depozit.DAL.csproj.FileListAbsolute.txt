@@ -1,0 +1,9 @@
+D:\Projects\Depozit\Depozit.DAL\obj\Debug\Depozit.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\Depozit\Depozit.DAL\bin\Debug\Depozit.DAL.dll.config
+D:\Projects\Depozit\Depozit.DAL\bin\Debug\Depozit.DAL.dll
+D:\Projects\Depozit\Depozit.DAL\bin\Debug\Depozit.DAL.pdb
+D:\Projects\Depozit\Depozit.DAL\bin\Debug\Depozit.Models.dll
+D:\Projects\Depozit\Depozit.DAL\bin\Debug\MySql.Data.dll
+D:\Projects\Depozit\Depozit.DAL\bin\Debug\Depozit.Models.pdb
+D:\Projects\Depozit\Depozit.DAL\obj\Debug\Depozit.DAL.dll
+D:\Projects\Depozit\Depozit.DAL\obj\Debug\Depozit.DAL.pdb

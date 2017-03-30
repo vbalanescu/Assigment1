@@ -1,0 +1,10 @@
+D:\Projects\BankCredit-master\BankCredit.Models\bin\Release\BankCredit.Models.dll
+D:\Projects\BankCredit-master\BankCredit.Models\bin\Release\BankCredit.Models.pdb
+D:\Projects\BankCredit-master\BankCredit.Models\obj\Release\Depozit.Models.csprojResolveAssemblyReference.cache
+D:\Projects\BankCredit-master\BankCredit.Models\obj\Release\BankCredit.Models.dll
+D:\Projects\BankCredit-master\BankCredit.Models\obj\Release\BankCredit.Models.pdb
+D:\Projects\Depozit\BankCredit.Models\bin\Release\BankCredit.Models.dll
+D:\Projects\Depozit\BankCredit.Models\bin\Release\BankCredit.Models.pdb
+D:\Projects\Depozit\BankCredit.Models\obj\Release\Depozit.Models.csprojResolveAssemblyReference.cache
+D:\Projects\Depozit\BankCredit.Models\obj\Release\BankCredit.Models.dll
+D:\Projects\Depozit\BankCredit.Models\obj\Release\BankCredit.Models.pdb

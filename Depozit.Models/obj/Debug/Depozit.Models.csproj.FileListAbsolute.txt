@@ -1,0 +1,5 @@
+D:\Projects\Depozit\Depozit.Models\bin\Debug\Depozit.Models.dll
+D:\Projects\Depozit\Depozit.Models\bin\Debug\Depozit.Models.pdb
+D:\Projects\Depozit\Depozit.Models\obj\Debug\Depozit.Models.csprojResolveAssemblyReference.cache
+D:\Projects\Depozit\Depozit.Models\obj\Debug\Depozit.Models.dll
+D:\Projects\Depozit\Depozit.Models\obj\Debug\Depozit.Models.pdb

@@ -1,0 +1,20 @@
+D:\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.BL.dll
+D:\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.BL.pdb
+D:\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.DAL.dll
+D:\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.Models.dll
+D:\Projects\BankCredit-master\BankCredit.BL\bin\Release\MySql.Data.dll
+D:\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.DAL.pdb
+D:\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.Models.pdb
+D:\Projects\BankCredit-master\BankCredit.BL\obj\Release\BankCredit.BL.csprojResolveAssemblyReference.cache
+D:\Projects\BankCredit-master\BankCredit.BL\obj\Release\BankCredit.BL.dll
+D:\Projects\BankCredit-master\BankCredit.BL\obj\Release\BankCredit.BL.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.BL.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.BL.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.DAL.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.Models.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\bin\Release\MySql.Data.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.DAL.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\bin\Release\BankCredit.Models.pdb
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\obj\Release\BankCredit.BL.csprojResolveAssemblyReference.cache
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\obj\Release\BankCredit.BL.dll
+C:\Users\vbalanescu\Documents\visual studio 2015\Projects\BankCredit-master\BankCredit.BL\obj\Release\BankCredit.BL.pdb
